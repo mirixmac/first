@@ -5,6 +5,6 @@ My first webbie
 ![alt text](pic.jpg)
 
 ### Community Guidelines
-1. thou shall worship bubz
-2. thou shall send munyuns er tithes weekly
-3. tho shall give me an A
+1. thou shall worship bubz 🐈‍⬛🌙
+2. thou shall send munyuns er tithes weekly  💼
+3. tho shall give me an A 💯🥇
