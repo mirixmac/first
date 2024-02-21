@@ -5,8 +5,7 @@ My first webbie
 ![alt text](pic.jpg)
 
 ### Community Guidelines
-1. thou shall worship bubz 🐈‍⬛🌙
-2. thou shall send munyuns er tithes weekly  💼
-3. tho shall give me an A 💯🥇
+<span style="color:purple"> 1. thou shall worship bubz 🐈‍⬛🌙
+<span style="color:green">2. thou shall send munyuns er tithes weekly  💼
+<span style="color:red">3. tho shall give me an A 💯🥇
 
-<span style="color:purple"> *some emphasized markdown text*</span>
